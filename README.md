@@ -63,6 +63,14 @@ lib/
 └── widgets/               # Reusable UI components
 ```
 
+## 📱 Screenshots
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/7a378a31-370c-436c-8917-336fd668984e" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/5255eece-b8bf-4ee6-ac39-76187209b98a" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/70388d1a-8477-4d08-ba3e-8769f66c4763" />
+
+
+---
+
 ## Getting Started
 
 ### Prerequisites
